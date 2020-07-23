@@ -12,12 +12,4 @@ Smartphone (iPhone X):
 
 ![](images/2.PNG)   ![](images/2.1.PNG)
 
-Computer (Windows):
-
-![](images/3.PNG)
-
-Tablet (iPad Pro):
-
-![](images/4.PNG)
-
 Created By Antonio Bernardini Copyright© 2020
