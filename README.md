@@ -8,6 +8,4 @@ Esempio di utilizzo:
 2) Nome o Percorso Repository: _Github-Code-Finder/Github Code Finder/js_
 3) Nome File: _script.js_
 
-![](video/app.mp4)
-
 Created By Antonio Bernardini Copyright© 2020
