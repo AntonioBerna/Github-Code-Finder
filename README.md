@@ -8,7 +8,8 @@ Esempio di utilizzo:
 2) Repository Name: _Github-Code-Finder/Github Code Finder/js_
 3) File Name: _script.js_
 
-Output:
+Dopo aver premuto sul bottone _Get_ viene visualizzato il contenuto del file:
+
 ```
 $('form').on('submit', (e) => {
 	e.preventDefault();
