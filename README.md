@@ -8,8 +8,6 @@ Esempio di utilizzo:
 2) Nome o Percorso Repository: _Github-Code-Finder/Github Code Finder/js_
 3) Nome File: _script.js_
 
-Smartphone (iPhone X):
 
-![](images/2.PNG)   ![](images/2.1.PNG)
 
 Created By Antonio Bernardini Copyright© 2020
