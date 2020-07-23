@@ -4,8 +4,8 @@ L'applicazione _Github Code Finder_ ti permetterà di accedere a qualsiasi file 
 ![](images/1.PNG)
 
 Esempio di utilizzo:
-1) Nome utente: _AntonioBerna_
-2) Nome o Percorso Repository: _Github-Code-Finder/Github Code Finder/js_
-3) Nome File: _script.js_
+1) Username: _AntonioBerna_
+2) Repository Name: _Github-Code-Finder/Github Code Finder/js_
+3) File Name: _script.js_
 
 Created By Antonio Bernardini Copyright© 2020
