@@ -10,7 +10,7 @@ Esempio di utilizzo:
 
 Smartphone (iPhone X):
 
-![](images/2.PNG)   []!(images/2.1.PNG)
+![](images/2.PNG)   ![](images/2.1.PNG)
 
 Computer (Windows):
 
