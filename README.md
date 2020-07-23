@@ -6,7 +6,7 @@ L'applicazione _Github Code Finder_ ti permetterà di accedere a qualsiasi file 
 Esempio di utilizzo:
 1) Nome utente: _AntonioBerna_
 2) Nome o Percorso Repository: _Github-Code-Finder/Github Code Finder/js_
-3) Nome File: script.js
+3) Nome File: _script.js_
 
 Smartphone:
 
