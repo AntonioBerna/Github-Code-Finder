@@ -58,7 +58,7 @@ Quindi, si aprirà una schermata simile a questa:
 
 ![](droidscript/5.jpg)
 
-Ora cliccando su **Edit**, dobbiamo inserire il codice della nostra applicazione nel singolo file di testo che si aprirà, che nel mio caso è il seguente:
+Ora cliccando su **Edit**, dobbiamo inserire il codice nel singolo file di testo che si aprirà, che nel mio caso è il seguente:
 
 ```
 <!DOCTYPE html>
