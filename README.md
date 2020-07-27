@@ -33,6 +33,13 @@ $('form').on('submit', (e) => {
 
 $('.filename, .text-editor').hide();
 ```
+
+# Utilizzare l'applicazione su Android (IOS in arrivo...)
+
+Per utilizzare l'applicazione _Github Code Finder_ sul nostro smartphone Android è sufficiente scaricare dal Play Store [DroidScript](https://play.google.com/store/apps/details?id=com.smartphoneremote.androidscriptfree&hl=en_GB&showAllReviews=true)
+
+
+
 # Per maggiori informazioni
 
 Github Code Finder Application [Youtube]: **IN ARRIVO?!**
