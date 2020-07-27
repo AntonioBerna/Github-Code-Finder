@@ -288,7 +288,7 @@ Ora cliccando su **Edit**, dobbiamo inserire il codice della nostra applicazione
 </body>
 </html>
 ```
-Infine possiamo tornare alla homepage di DroidScript e cliccando sull'icona di _Github Code Finder_ si aprirà l'applicazione:
+Infine possiamo tornare alla homepage di **DroidScript** e cliccando sull'icona di _Github Code Finder_ si aprirà la nostra applicazione:
 
 ![](images/1.PNG)
 
