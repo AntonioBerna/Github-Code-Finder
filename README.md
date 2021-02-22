@@ -310,4 +310,4 @@ Infine possiamo tornare alla homepage di **DroidScript** e cliccando sull'icona 
 
 Github Code Finder Application [Youtube]: **IN ARRIVO?!**
 
-Created By Antonio Bernardini Copyright© 2020
+Created By Antonio Bernardini Copyright© 2021
