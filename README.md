@@ -2,7 +2,7 @@
 L'applicazione _Github Code Finder_ ti permetterà di accedere a qualsiasi file di Github inserendo il nome utente, il nome o il percorso della repository e il nome del file che si vuole aprire! Niente di più facile e veloce!
 
 <p align="center">
- <img src="images/1.PNG">
+ <img width="200" heigth="200" src="images/1.PNG">
 </p>
 
 Esempio di utilizzo:
@@ -42,23 +42,33 @@ Per utilizzare l'applicazione _Github Code Finder_ sul nostro smartphone Android
 
 Una volta conclusa l'installazione, apriamo **DroidScript** e **clicchiamo sui tre puntini in alto a destra** e poi nuovamente su **'New'**:
 
-![](droidscript/1.jpg)
+<p align="center">
+  <img width="200" heigth="200" src="droidscript/1.jpg">  
+</p>
 
 Quindi, si aprirà una schermata simile a questa:
 
-![](droidscript/2.jpg)
+<p align="center">
+  <img width="200" heigth="200" src="droidscript/2.jpg">  
+</p>
 
 Ora dobbiamo sostituire la scritta **'Native'** con la scritta **'HTML'** (cliccandoci sopra) e dobbiamo inserire il **nome della nostra applicazione**:
 
-![](droidscript/3.jpg)
+<p align="center">
+  <img width="200" heigth="200" src="droidscript/3.jpg">  
+</p>
 
 e infine clicchiamo su **'OK'**. Ora teniamo premuto il dito sull'icona dell'applicazione:
 
-![](droidscript/4.jpg)
+<p align="center">
+  <img width="200" heigth="200" src="droidscript/4.jpg">  
+</p>
 
 Quindi, si aprirà una schermata simile a questa:
 
-![](droidscript/5.jpg)
+<p align="center">
+  <img width="200" heigth="200" src="droidscript/5.jpg">  
+</p>
 
 Ora cliccando su **Edit**, dobbiamo inserire il codice nel singolo file di testo che si aprirà, che nel mio caso è il seguente:
 
@@ -291,8 +301,9 @@ Ora cliccando su **Edit**, dobbiamo inserire il codice nel singolo file di testo
 </html>
 ```
 Infine possiamo tornare alla homepage di **DroidScript** e cliccando sull'icona di _Github Code Finder_ si aprirà la nostra applicazione:
-
-![](images/1.PNG)
+<p align="center">
+  <img width="200" heigth="200" src="images/1.PNG">  
+</p>
 
 
 # Per maggiori informazioni
